@@ -37,7 +37,11 @@ The pricing are very dense in the range below $100. Nike is trying to offer a wi
 
 ### **3. Discount Trends**
 The **discount percentages** are calculated across different products. Nike is willing to offer three products significant discounts while complete 0 discount for others.
-The discount are for low-popularity colored shoes and legacy running shoes. A time-series data will better explain. 
+The discount are for low-popularity colored shoes and legacy running shoes. A time-series data will better explain.
+
+### **4. Price Sensitivity Analysis**
+Nike's pricing strategy for men's running shoes demonstrates low price elasticity. The majority of products maintaining no discounts (0-5%). Significant markdowns (30-35%) are concentrated in the $100-$150 range. The mid-tier models are discounted for inventory turnover. High-level professional models ($200+) are prized stably. There'ss strong demand without price incentives. 
+The rarity of discounts indicates Nike’s aproach to preserve shoes values.
 
 ---
 
